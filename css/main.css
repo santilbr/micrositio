@@ -108,7 +108,7 @@ h1, h2, h3, h4, h4, h5, h6{
     font-weight: 300;
     font-size: 2.5rem;
     margin-bottom: 3rem;
-    margin-top: 3rem;
+    margin-top: 2rem;
 
 }
 
@@ -119,7 +119,7 @@ p, ul, li, a{
 
 
 .nav{
-padding-bottom: 2rem;    
+padding-bottom: 1rem;    
 }
 
 
@@ -127,7 +127,13 @@ a{
     color: #001EFF;
 }
 
+p{
+    text-align: justify;
+}
 
+.indent-heading{
+    text-indent: -6.5rem;
+}
 
 
 
