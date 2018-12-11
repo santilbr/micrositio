@@ -98,12 +98,13 @@ textarea {
    ========================================================================== */
 
 body{
-    background: #ffeeee;
+    background: #FDDDD2;
 }
 
 
 h1, h2, h3, h4, h4, h5, h6{
     font-family: 'Montserrat', sans-serif;
+    color:#E600DC;
     font-weight: 300;
     font-size: 2.5rem;
     margin-bottom: 3rem;
@@ -123,7 +124,7 @@ padding-bottom: 2rem;
 
 
 a{
-    color: red;
+    color: #E600DC;
 }
 
 
